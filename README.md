@@ -24,7 +24,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaMih)](https://github.com/anuraghazra/github-readme-stats)
 
-<details><summary>**CSS Project**</summary>
+<details><summary><b>CSS Projects</b></summary>
    1. <a href="https://github.com/NikitaMih/WEISS">WEISS</a>
+</details>
+<details><summary><b>JS Projects</b></summary>
+   1. <a href="https://github.com/NikitaMih/pinterest">Pinterest</a>
+   1. <a href="https://github.com/NikitaMih/todo">ToDo</a>
+   1. <a href="https://github.com/NikitaMih/virtualpiano">VirtualPiano</a>
+</details>
+<details><summary><b>React Project</b></summary>
+   1. <a href="https://github.com/NikitaMih/tradeinvest">TradeInvest</a>
 </details>
 
