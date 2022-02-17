@@ -12,14 +12,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=FDFF00)
 
 ### Follow Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkediIn&logoColor=003BA3)](https://www.linkedin.com/in/nikita-mihalevich-1b215a211/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=003BA3)](https://www.linkedin.com/in/nikita-mihalevich-1b215a211/)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=F400A1)](https://instagram.com/nikita_mihalevich)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4A8CFF)]
-
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4A8CFF)(https://t.me/Nikita_Mih)]
 
 
 #### 📭Contacts
 * Gmail: nikitamih96@gmail.com;
 * Telegram: @Nikita_Mih;
 * Phone: +375 29 399-31-98;
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NikitaMih=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
