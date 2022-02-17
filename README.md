@@ -22,5 +22,9 @@
 * Telegram: @Nikita_Mih;
 * Phone: +375 29 399-31-98;
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaMih)](https://github.com/anuraghazra/github-readme-stats)
+
+<details><summary>CSS Project</summary>
+   1. [WEISS](https://github.com/NikitaMih/WEISS)
+</details>
+
