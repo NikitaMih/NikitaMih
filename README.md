@@ -1,6 +1,6 @@
 # Hi! I'm Nikita Mihalevich 👋
 
-#### 💻I’m currently working as business analyst in JSC "Development Bank of the Republic of Belarus" and I want to become a developer.
+### 💻I’m currently working as business analyst in JSC "Development Bank of the Republic of Belarus" and I want to become a developer.
 
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=D62D20)
