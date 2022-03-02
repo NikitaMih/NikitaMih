@@ -18,7 +18,7 @@
 
 
 ### 📭Contacts
-* **Gmail:** nikitamih96@gmail.com;
+* **Gmail:** nik96mih@gmail.com;
 * **Telegram:** @Nikita_Mih;
 * **Phone:** +375 29 399-31-98;
 
